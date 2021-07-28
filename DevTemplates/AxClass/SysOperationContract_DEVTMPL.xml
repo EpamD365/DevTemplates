@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AxClass xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+	<Name>SysOperationContract_DEVTMPL</Name>
+	<SourceCode>
+		<Declaration><![CDATA[
+[DataContractAttribute]
+public class SysOperationContract_DEVTMPL
+{
+
+}
+]]></Declaration>
+		<Methods />
+	</SourceCode>
+</AxClass>

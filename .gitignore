@@ -1,0 +1,5 @@
+/bin
+/XppMetadata
+/Projects/DevTemplates/*.vspscc
+/*.log
+/BuildProjectResult.xml
